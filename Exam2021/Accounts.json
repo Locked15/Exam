@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "NewUser",
+    "Password": "NewUser_Pass",
+    "Employeers": [
+      {
+        "Number": 1,
+        "Name": "\u0422\u0435\u0441\u0442\u0435\u0440",
+        "BirthTime": "2018-12-31T00:00:00",
+        "Work": 0
+      }
+    ]
+  },
+  {
+    "Name": "SecondUser",
+    "Password": "SecondUser_Pass",
+    "Employeers": []
+  }
+]
